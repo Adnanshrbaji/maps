@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #EBECF0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 110vh;
+    font-family: 'Lato', sans-serif;
+}
+
+.box {
+    background-color: #fff;
+    display: flex;
+    border-radius: 1em;
+    width: 30vw;
+    flex-direction: column;
+    padding: 2em;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    position: relative;
+}
